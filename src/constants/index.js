@@ -94,20 +94,20 @@ export const feedback = [
     img: people02,
   },
   {
-    id: "feedback-3",
-    content:
-      "Flutter Developer with 2+ years experience at GameChanger Research Solutions and AUC (American University in Cairo).",
-    name: "Osama Tawfiq",
-    title: "Flutter Developer",
-    img: people03,
-  },
-  {
     id: "feedback-4",
     content:
       "+2 Years of Work Experience at GameChanger Research Solutions and AUC (American University in Cairo).",
     name: "Mohammed Mamdouh",
     title: "Flutter Developer",
     img: people04,
+  },
+  {
+    id: "feedback-3",
+    content:
+      "Flutter Developer with 2+ years experience at GameChanger Research Solutions and AUC (American University in Cairo).",
+    name: "Osama Tawfiq",
+    title: "Flutter Developer",
+    img: people03,
   },
 
   // {
